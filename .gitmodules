@@ -1,0 +1,9 @@
+[submodule "justice-for-families-android"]
+	path = justice-for-families-android
+	url = git@github.com:ctc-uci/justice-for-families-android.git
+[submodule "justice-for-families-backend"]
+	path = justice-for-families-backend
+	url = git@github.com:ctc-uci/justice-for-families-backend.git
+[submodule "justice-for-families-ios"]
+	path = justice-for-families-ios
+	url = git@github.com:ctc-uci/justice-for-families-ios.git
