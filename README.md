@@ -15,8 +15,7 @@
 
 🆙 We developed an Android and iOS community forum prototype application where users are able to post messages to a main feed that all users can view, like, and comment on. We added features specifically catered to Justice for Families' community, such as anonymous posting, tags to categorize posts, and urgent notifications.
 
-![Android Homepage](https://user-images.githubusercontent.com/45449494/130164500-0983325e-bef6-4699-883d-e0e738c43b8c.png) ![Android Post](https://user-images.githubusercontent.com/45449494/130164535-ac481d62-807b-416a-9af9-adbea667682a.png)
-![iOS Homepage](https://user-images.githubusercontent.com/45449494/130164540-67dfd55e-587c-454f-a7ca-5a6459a93997.PNG) ![iOS Post](https://user-images.githubusercontent.com/45449494/130164584-7e273cfd-7f47-477b-9b95-fce86aeaeb80.PNG)
+![Project Screenshots](https://user-images.githubusercontent.com/45449494/130165629-633a621c-e732-49e1-b7fd-a14c91da4bb0.png)
 
 
 **Tech Stack:**
