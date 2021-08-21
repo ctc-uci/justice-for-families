@@ -22,6 +22,6 @@
 
 **🔼 Android:** Kotlin
 
-**🔼 iOS:** Swift
+**🔼 iOS:** SwiftUI
 
 **🔽 Backend:** NodeJS + MongoDB
